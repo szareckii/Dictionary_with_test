@@ -1,0 +1,16 @@
+include ':repository'
+include ':historyscreen'
+include ':model'
+include ':core'
+include ':app'
+include ':utils'
+
+//rootProject.name = "Dictionary"
+
+//include Modules.app
+//include Modules.historyScreen
+//include Modules.core
+//include Modules.model
+//include Modules.repository
+//include Modules.utils
+
